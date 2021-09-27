@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **treshat97@gmail.com**
 
-- ⚡ Fun fact **I love to travel and try new thing**
+- ⚡ Fun fact **I love to travel and try new things**
 
 ## 🚀 Languages and Tools:
 
@@ -70,6 +70,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ihtrishat"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/ihtrishat"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "https://twitter.com/ihTrishat"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/IFTEKHARUL_HASAN"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCn4igP7Es8yk64Adx3hIkVg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
