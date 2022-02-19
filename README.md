@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[South Dhaka Cyclists "SDC"]**
+- 🔭 I’m currently working at **SDC BikeWala**
 
 - 🌱 I’m currently learning **Cyber Security and Ethical Hacking**
 
