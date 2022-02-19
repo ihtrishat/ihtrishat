@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **SDC BikeWala**<a href = "https://www.facebook.com/SDCBikeWala">SDC BikeWala</a>
+- 🔭 I’m currently working at **SDC BikeWala**<a href = "https://www.facebook.com/SDCBikeWala">**SDC BikeWala**</a>
 - 🌱 I’m currently learning **Cyber Security and Ethical Hacking**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
